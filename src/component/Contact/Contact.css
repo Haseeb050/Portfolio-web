@@ -9,6 +9,9 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+#contact {
+  margin-top: 5rem;
+}
 .contact_option {
   background: var(--color-bg-variant);
   padding: 0.8rem 0;

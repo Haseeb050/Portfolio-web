@@ -47,7 +47,6 @@ function Footer() {
           </a>
         </li>
       </ul>
-
       <div className="footer_socials">
         <a href="https://www.linkedin.com/in/thehaseebzafar9832/">
           <FaLinkedin />
